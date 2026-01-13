@@ -1,3 +1,5 @@
 streamlit
-pyYAML
 pandas
+numpy
+pyyaml
+openpyxl>=3.1.0
